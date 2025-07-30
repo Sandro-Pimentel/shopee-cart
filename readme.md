@@ -1,6 +1,6 @@
 # Recriando a lógica do carrinho de compras da Shopee
 
->_💻 Status do projeto: Em desenvolvimento._
+>_💻 Status do projeto: Finalizado._
 
 ## Descrição Do Projeto
 
@@ -9,9 +9,23 @@ Foi criada a lógica por trás do carrinho de compras da shopee, aonde o carrinh
  
 ## Alteracoes implementadas
 
-- [x] Criar produtos disponiveis para compra
-- [x] Opcao de adicionar item na wishlist ou carrinho
-- [x] Opcao de incrementar item na wishlist ou carrinho
-- [x] Opcao de remover item na wishlist ou carrinho
-- [x] Opcao de decrementar item na wishlist ou carrinho
-- [x] Opcao de mover item na wishlist ou carrinho
+- [x] Criar produtos disponíveis para compra
+- [x] Opção de adicionar item na wishlist ou carrinho
+- [x] Opção de incrementar item na wishlist ou carrinho
+- [x] Opção de remover item na wishlist ou carrinho
+- [x] Opção de decrementar item na wishlist ou carrinho
+- [x] Opção de mover item na wishlist ou carrinho
+
+## Como rodar
+
+Ao baixar o projeto instale as dependências com:
+
+```
+npm install
+```
+
+Para rodar a aplicação use o comando:
+
+```
+npm run start
+```
